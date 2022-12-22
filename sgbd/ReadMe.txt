@@ -3,7 +3,7 @@
 	(2) B-CServer.bat (lancer un client)
 	
 > SYNTAXE DE BASE :
-	(1) Creation DataBase
+	(1) Creation DataBase.
 		- CREATE DATABASE DBName
 
 	(2) Voir DataBase(s)
